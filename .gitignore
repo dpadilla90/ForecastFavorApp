@@ -31,3 +31,60 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+## Build generated files
+bin/
+obj/
+packages/
+
+## User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.suo
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+*.psess
+
+## TFS cache
+*.tfignore
+
+## ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## TeamCity is a build add-in
+_TeamCity*
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+## Rider is a .NET IDE
+.idea/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows shortcuts
+*.lnk
+
+## JetBrains Rider
+.idea/
+
+## ASP.NET Core
+appsettings.json
+appsettings.*.json
+bundleconfig.json
